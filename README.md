@@ -1,4 +1,4 @@
-# daily_moody
+# Daily Moody
 
 daily moody
 
